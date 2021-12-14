@@ -3,30 +3,34 @@
 	  {
 				"id": 1,
 				"name": "IND VS PAK",
-				"templates": [
-				{
-				  "title": "LINK 1",
-				  "video_url": "http://lyrical11.appearth.xyz:8090/videos/lyrical_photo_status/webm/1630042087_watermarked_output.webm"
-				  
-				},
-				{
-				  "title": "Link 2",
-				  "video_url": "http://lyrical11.appearth.xyz:8090/videos/lyrical_photo_status/webm/1630042087_watermarked_output.webm"
-				}
+				"templates": 
+				[
+					{
+					  "title": "LINK 1",
+					  "video_url": "http://lyrical11.appearth.xyz:8090/videos/lyrical_photo_status/webm/1630042087_watermarked_output.webm"
+					  
+					},
+					{
+					  "title": "Link 2",
+					  "video_url": "http://lyrical11.appearth.xyz:8090/videos/lyrical_photo_status/webm/1630042087_watermarked_output.webm"
+					}
+				]
 	  },
 	  
 	   {
 				"id": 2,
 				"name": "AUS VS SA",
-				"templates": [
-				{
-				  "title": "Link 1",
-				  "video_url": "http://lyrical11.appearth.xyz:8090/videos/lyrical_photo_status/webm/1630042087_watermarked_output.webm"
-				  
-				},
-				{
-				  "title": "Link 2",
-				  "video_url": "http://lyrical11.appearth.xyz:8090/videos/lyrical_photo_status/webm/1630042087_watermarked_output.webm"
-				}
+				"templates": 
+				[
+					{
+					  "title": "Link 1",
+					  "video_url": "http://lyrical11.appearth.xyz:8090/videos/lyrical_photo_status/webm/1630042087_watermarked_output.webm"
+					  
+					},
+					{
+					  "title": "Link 2",
+					  "video_url": "http://lyrical11.appearth.xyz:8090/videos/lyrical_photo_status/webm/1630042087_watermarked_output.webm"
+					}
+				]
 	  }
  ]
