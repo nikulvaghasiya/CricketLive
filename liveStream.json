@@ -12,27 +12,27 @@
         },
         {
           "title": "Sony Six HD",
-          "is_web": "yes",
+          "is_web": "no",
           "video_url": "http://208.86.19.21/740.stream/index.m3u8"
         },
         {
           "title": "Sony Ten1 HD",
           "is_web": "yes",
-          "video_url": "http://208.86.19.21/726.stream/index.m3u8"
+          "video_url": "https://snehtv-march.in1.bitmana.io/jiotv/play?c=Ten_HD"
         },
         {
           "title": "Willow HD",
           "is_web": "yes",
-          "video_url": "http://208.86.19.21/731.stream/index.m3u8"
+          "video_url": "https://daddylive.fun/cricket/cricket-2.php"
         },
         {
           "title": "Geo Super",
-          "is_web": "yes",
+          "is_web": "no",
           "video_url": "http://221.120.204.4/geo-super-LOCKLE/index.m3u8"
         },
         {
           "title": "Astro Sport",
-          "is_web": "yes",
+          "is_web": "no",
           "video_url": "http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8"
         }
       ]
@@ -43,12 +43,12 @@
       "templates": [
         {
           "title": "Strar Sport 1Hd",
-          "is_web": "yes",
-          "video_url": "http://208.86.19.21/710.stream/index.m3u8"
+          "is_web": "no",
+          "video_url": "http://live.flixhub.net/hls/stersports1hd.m3u8"
         },
         {
           "title": "Ptv Sport",
-          "is_web": "yes",
+          "is_web": "no",
           "video_url": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8"
         }
       ]
