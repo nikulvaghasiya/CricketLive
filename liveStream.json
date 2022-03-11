@@ -7,7 +7,7 @@
       "templates": [
         {
           "title": "Fox Cricket",
-          "is_web": "yes",
+          "is_web": "no",
           "video_url": "http://vstreams.tv:2082/live/rb0zYNF5GQ/FGWoCyPvwt/2180746.m3u8"
         },
         {
