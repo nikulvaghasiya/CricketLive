@@ -23,7 +23,7 @@
         {
           "title": "Willow HD",
           "is_web": "yes",
-          "video_url": "https://daddylive.fun/cricket/cricket-2.php"
+          "video_url": "https://daddylive.fun/stream/stream-346.php"
         },
         {
           "title": "Geo Super",
@@ -43,8 +43,8 @@
       "templates": [
         {
           "title": "Strar Sport 1Hd",
-          "is_web": "no",
-          "video_url": "http://live.flixhub.net/hls/stersports1hd.m3u8"
+          "is_web": "yes",
+          "video_url": "https://daddylive.me/embed/stream-1.php"
         },
         {
           "title": "Ptv Sport",
