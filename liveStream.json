@@ -12,8 +12,8 @@
         },
         {
           "title": "Sony Six HD",
-          "is_web": "no",
-          "video_url": "http://208.86.19.21/740.stream/index.m3u8"
+          "is_web": "yes",
+          "video_url": "http://b2.hitcric.live"
         },
         {
           "title": "Sony Ten1 HD",
@@ -23,7 +23,7 @@
         {
           "title": "Willow HD",
           "is_web": "yes",
-          "video_url": "http://221.120.204.4/geo-super-LOCKLE/index.m3u8"
+          "video_url": "https://daddylive.fun/cricket/cricket-2.php"
         },
         {
           "title": "Geo Super",
