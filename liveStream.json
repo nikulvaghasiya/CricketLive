@@ -43,13 +43,18 @@
       "templates": [
         {
           "title": "Strar Sport 1Hd",
-          "is_web": "yes",
-          "video_url": "https://daddylive.fun/stream/stream-31.php"
+          "is_web": "no",
+          "video_url": "http://live.flixhub.net/hls/stersports1hd.m3u8"
         },
         {
           "title": "Ptv Sport",
           "is_web": "no",
           "video_url": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8"
+        },
+         {
+          "title": "FHd",
+          "is_web": "no",
+          "video_url": "https://vkvsd45.mycdn.me:443/hls/2088886143619.m3u8/sig/UrvFSU_mRn8/srcIp/122.173.249.132/expires/1647705065104/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3214245047171/id/2088886143619/2088886143619_fullhd/index.m3u8"
         }
       ]
     }
