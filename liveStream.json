@@ -8,12 +8,17 @@
         {
           "title": "Live 1",
           "is_web": "no",
-          "video_url": "https://rcpems02.jio.ril.com/live.kube.cdn.ril.com/bpk-tv/TEST3_HD_MOB/output01/TEST3_HD_MOB-audio_179634_eng=179600-video=376800.m3u8"
+          "video_url": "https://vkvsd45.mycdn.me/hls/2088886143619.m3u8/sig/mwbFArTKk3w/srcIp/117.99.228.220/expires/1648758148630/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3214245047171/id/2088886143619_medium/index.m3u8"
         },
         {
           "title": "Live 2",
           "is_web": "no",
-          "video_url": "https://rcpems02.jio.ril.com/live.kube.cdn.ril.com/bpk-tv/TEST3_HD_MOB/output01/TEST3_HD_MOB-audio_179634_eng=179600-video=376800.m3u8"
+          "video_url": "http://103.149.130.122:8089/102/index.m3u8"
+        },
+        {
+          "title": "Live 3",
+          "is_web": "no",
+          "video_url": "https://aws.nowtv.vip/live/skycricket/chunks.m3u8"
         }
       ]
     }
