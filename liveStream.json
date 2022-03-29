@@ -29,7 +29,7 @@
         {
           "title": "Live 4",
           "is_web": "no",
-          "video_url": "http://103.166.253.222/hls/t-sports.m3u8"
+          "video_url": "http://62.210.182.103:8030/Crlug5/index.m3u8?token=69a9a8214914ad92f89db8a3a156cdd7c1aec6cd-1648560084-1648560007"
         }
       ]
     }
