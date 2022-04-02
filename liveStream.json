@@ -8,12 +8,12 @@
         {
           "title": "Live 1",
           "is_web": "no",
-          "video_url": "https://vkvsd5.mycdn.me/hls/2241493076581.m3u8/sig/YAtWERdfCTg/expires/1648902086428/srcIp/157.32.115.99/clientType/13/srcAg/CHROME_ANDROID/mid/3088291736421/2241493076581_high/index.m3u8"
+          "video_url": "https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/6kaLW8SnMrTeZ0TDOFPCTgO0kDtaa8ZnCcJyJsRjrDJFsY_d0RKpV1zMYKdIoudgeRv0_ZGvsaV9r6566nT4AQ/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live"
         },
         {
           "title": "Live hd",
           "is_web": "no",
-          "video_url": "http://diokz91u21fy1.cloudfront.net/iplch1/2022/master.m3u8"
+          "video_url": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/TFD9ObTNE0z3qzg_2rUVKA6Uur0osGY9mRmI-OZdc74p0PhcMMMneGrEjOr5MJ7c9d11XAdOs3yMm8fydmkycg/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live"
         },
         {
         
