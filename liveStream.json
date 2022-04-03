@@ -8,7 +8,7 @@
         {
           "title": "Live 1",
           "is_web": "no",
-          "video_url": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/JxleEwp77Egtvj6DA0mbMXjSD951HIFyrvG2rQar4FAtJaAT_Dx9a_I976OJ2bDkN6MEK7FVpg-6_AaCaCBcnQ/transcode/us-west-2/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+          "video_url": "https://cdn.livepeer.com:443/hls/10f25gp54y7sh0rd/0_1/index.m3u8"
         },
         {
           "title": "Live hd",
