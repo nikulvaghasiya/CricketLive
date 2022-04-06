@@ -13,7 +13,7 @@
         {
           "title": "Live hd",
           "is_web": "no",
-          "video_url": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/e6jBHXnZROeAERndhSKFbZ2TTXzASoRFS6UC0vQ5fvGK32KnHwZ-WfcCDDrmky42onJh0gF9MgGOGfkPc5yqgw/transcode/us-west-2/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+          "video_url": "https://nl.castamp.com/live/NEWA/chunklist.m3u8?h=pGWhgPxuSKnhk5Gb21Iz_w&e=1649281837&u=2ca144cbd64ea89be8fa7335b8a79cca&d=2409_4072_8e38_326a__328a_420e"
         },
         {
         
