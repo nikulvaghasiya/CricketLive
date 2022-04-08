@@ -8,12 +8,12 @@
         {
           "title": "Live 1",
           "is_web": "no",
-          "video_url": "https://vsd83.mycdn.me/hls/2480850930384.m3u8/sig/25GL6fXDBv8/expires/1649342994541/srcIp/167.99.138.81/clientType/1/srcAg/CHROME/mid/3851756642000/2480850930384_high/index.m3u8"
+          "video_url": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/8rL_xlb28KM5Uk6eF2DwJY6U7xmHCdjcPjROejN-qi3LABdZJS6YWCvpjEio-Izzw7ShLYL9sUcXm8uSxBoNyw/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?typelive"
         },
         {
           "title": "Live hd",
           "is_web": "no",
-          "video_url": "https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8"
+          "video_url": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/18-TBD92hqYZ1FSZLqoSKKUdPkrOmwAaandfPD-XRHaoXX8b1hkQ-qgoN_W9rf-t-pbYzVt29pCOV40qiWH-7Q/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live"
         },
         {
         
