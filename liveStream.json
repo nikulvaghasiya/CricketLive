@@ -8,7 +8,7 @@
         {
           "title": "Live 1",
           "is_web": "no",
-          "video_url": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/m0a_pMu38WOYjOYbSGqMDdswDYhzYqNJBygIVqF8cOesUf_DalwwWoBvJBc6lGi07nkNr6naulGHa3sgcOpKpg/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live"
+          "video_url": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5OuL3isu4HH0EkQfd41c0MCR8mAeuy2GG-eEnZyc3h8S1B80Amzydk9JjveJxC2-9xfJEXwv5iVxM7H9YE1BsA/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live"
          },{
           "title": "Live hd",
           "is_web": "no",
