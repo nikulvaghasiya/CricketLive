@@ -8,11 +8,11 @@
         {
           "title": "Live 1",
           "is_web": "no",
-          "video_url": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5OuL3isu4HH0EkQfd41c0MCR8mAeuy2GG-eEnZyc3h8S1B80Amzydk9JjveJxC2-9xfJEXwv5iVxM7H9YE1BsA/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live"
+          "video_url": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/q8n16zPcw2vfwZJ9u0nq1ZAtUh4EgPojk5Be-n5gNoLb2wfXk219odhWEfiEz9Oc0TfLr5e6Yl_jXhdsdkI4zw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live"
          },{
           "title": "Live hd",
           "is_web": "no",
-          "video_url": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/0hmYZNJY4C9JwvmtHTa-iLPCygFjpCkWLutAqsOtwoh2HS55cyHSerz-FbiBym74xJaHIIh9zdBYlq8Ujab-WA/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live"
+          "video_url": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/igwcC4TSrbvpv0ufiC6sh-NezzikAGm2hVxXbGqnInPbkAlIhLgMwOK896Mw4CJkxOGuZT1uTfPjHWBKB6gQjg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live"
         }
       ]
     }
